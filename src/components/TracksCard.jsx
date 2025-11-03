@@ -27,9 +27,9 @@ export default function FlipCard() {
               <h3 className="text-lg font-semibold mb-2">{track.name}</h3>
             </div>
             {/*BACK SECTION*/}
-            <div className="absolute w-full h-full rounded-xl p-5 text-center transform-[rotateY(180deg)] backface-hidden flex flex-col justify-center">
+            <div className="absolute w-full text-sm h-full rounded-xl p-5 text-center transform-[rotateY(180deg)] backface-hidden flex flex-col justify-center">
               <p><strong>Track Location:</strong> {track.location}</p>
-              <p>{track.history}</p>
+              <p >{track.history}</p>
               <p><strong>First appearance:</strong> {track.first_year}</p>
               <p><strong>Length:</strong> {track.length_km}</p>
               <p><strong>Corners:</strong> {track.corners}</p>

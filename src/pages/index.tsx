@@ -7,7 +7,7 @@ const Hero = () => {
     { icon: Users, label: "Drivers and teams", href: "/drivers" },
     { icon: MapPin, label: "Tracks", href: "/tracks" },
     { icon: Trophy, label: "History", href: "/history" },
-    { icon:Contact, label: "Contact", href:"https://juanllanos.netlify.app/en/"}
+    { icon:Contact, label: "Contact", href:"https://portfolio-jd-1211.web.app/en"}
   ];
 
   return (
