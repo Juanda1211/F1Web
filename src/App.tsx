@@ -9,12 +9,12 @@ import Hero from './pages/index.tsx'
 
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename='/'>
      <Routes>
         <Route path='/' element={<Hero/>}/>
         <Route path="/drivers" element={<Drivers/>}/>
-        <Route path='/tracks' element={<Tracks/>}/>
-        <Route path='/history' element={<History/>}/>
+        <Route path="/tracks" element={<Tracks/>}/>
+        <Route path="/history" element={<History/>}/>
         <Route/>
       </Routes>
   </BrowserRouter>

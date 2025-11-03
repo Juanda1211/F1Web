@@ -4,9 +4,9 @@ import heroImage from "@/assets/f1-hero.jpg";
 
 const Hero = () => {
   const navItems = [
-    { icon: Users, label: "Drivers and teams", href: "/drivers" },
-    { icon: MapPin, label: "Tracks", href: "/tracks" },
-    { icon: Trophy, label: "History", href: "/history" },
+    { icon: Users, label: "Drivers and teams", href: "drivers" },
+    { icon: MapPin, label: "Tracks", href: "tracks" },
+    { icon: Trophy, label: "History", href: "history" },
     { icon:Contact, label: "Contact", href:"https://portfolio-jd-1211.web.app/en"}
   ];
 
