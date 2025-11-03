@@ -18,10 +18,10 @@ export default function Info(){
       <strong>F1 Last Champion</strong>
     </header>
     <div className="overflow-hidden p-2 sm:p-4 lg:p-0 relative">
-      {/* Mobile/tablet: flex-col con imagen arriba; lg: float right */}
+  
       <div className="flex flex-col lg:flex-row lg:gap-0 lg:items-start lg:justify-around md:gap-4 md:items-center">
         <img 
-          src="src/assets/max-verstapen-2024.avif" 
+          src="/max-verstapen-2024.avif" 
           alt="Max Verstappen" 
           className="w-full md:w-3/5 lg:w-2/5 lg:float-end lg:mb-4 border-2 border-black rounded-2xl h-auto max-h-48 sm:max-h-56 md:max-h-64 lg:max-h-none bg-center mb-4 mt-4 lg:mt-0 order-first lg:order-last object-cover mx-auto md:mx-auto lg:mx-0"
         /> 
@@ -31,7 +31,7 @@ export default function Info(){
           He ultimately secured the title at the Las Vegas Grand Prix, becoming the sixth driver to win four titles and the first to do so with a third-placed constructor.
         </p>
       </div>
-      {/* Clearfix solo para lg floats */}
+     
       <div className="lg:clear-both"></div>
     </div>
   </div>
