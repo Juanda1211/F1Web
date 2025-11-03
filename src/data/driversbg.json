@@ -1,0 +1,12 @@
+{
+  "mclaren": "bg-gradient-to-b from-orange-500 via-orange-400 to-black",
+  "ferrari": "bg-gradient-to-b from-red-500 to-red-700",
+  "red_bull": "bg-gradient-to-b from-blue-600 via-blue-800 to-red-600",
+  "mercedes": "bg-gradient-to-b from-teal-500 to-gray-400",
+  "aston_martin": "bg-gradient-to-b from-green-700 to-green-900",
+  "alpine": "bg-gradient-to-b from-blue-500 to-blue-700",
+  "haas": "bg-gradient-to-b from-red-600 to-gray-800",
+  "racing_bulls": "bg-gradient-to-b from-indigo-600 to-blue-900",
+  "williams": "bg-gradient-to-b from-blue-700 to-white",
+  "sauber": "bg-gradient-to-b from-gray-800 to-gray-400"
+}

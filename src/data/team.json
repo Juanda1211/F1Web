@@ -1,0 +1,92 @@
+[
+  {
+    "name": "McLaren",
+    "first_appearance": 1966,
+    "titles": 10,
+    "wins": 197,
+    "engine_supplier": "Mercedes",
+    "brief_history": "Founded in 1963 by New Zealand driver Bruce McLaren, the team debuted in F1 in 1966 and achieved its first victory at the 1968 Belgian GP. McLaren became a dominant force with 10 constructors' championships, driven by innovations like the MP4/4 in 1988 which won 15 of 16 races, and legendary drivers such as Ayrton Senna, Alain Prost, and Mika Häkkinen. After a decline in the 2010s, the team resurged by winning the championship in 2024.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/McLaren_Racing_logo.svg/2560px-McLaren_Racing_logo.svg.png"
+  },
+  {
+    "name": "Ferrari",
+    "first_appearance": 1950,
+    "titles": 16,
+    "wins": 245,
+    "engine_supplier": "Ferrari",
+    "brief_history": "Scuderia Ferrari, the oldest F1 team, was founded in 1929 by Enzo Ferrari as a racing team for Alfa Romeo before becoming a constructor in 1947. Ferrari debuted in the inaugural world championship in 1950 and has secured 16 constructors' titles with icons such as Alberto Ascari, Niki Lauda, and Michael Schumacher. Symbolizing Italian racing passion, Ferrari remains the most successful team in F1 history despite recent droughts, holding the record for the most wins and podiums.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Scuderia_Ferrari_HP_logo_24.svg/1200px-Scuderia_Ferrari_HP_logo_24.svg.png"
+  },
+  {
+    "name": "Red Bull Racing",
+    "first_appearance": 2005,
+    "titles": 6,
+    "wins": 121,
+    "engine_supplier": "Red Bull Powertrains (Honda RBPT)",
+    "brief_history": "Acquired by the energy drink company Red Bull from Jaguar Racing in 2005, the team quickly transformed under Christian Horner, claiming their first title in 2010 with Sebastian Vettel. With six constructors' championships (2010-2013, 2022), Red Bull is known for its innovative aerodynamic designs led by Adrian Newey and aggressive drivers like Max Verstappen, cementing its dominance in the hybrid era.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_bull_racing.png"
+  },
+  {
+    "name": "Mercedes",
+    "first_appearance": 1954,
+    "titles": 8,
+    "wins": 131,
+    "engine_supplier": "Mercedes",
+    "brief_history": "Mercedes-Benz competed in F1 in the 1950s, winning two titles with Juan Manuel Fangio before leaving the sport after the 1955 Le Mans disaster. Returning as an engine supplier in 1994, Mercedes purchased Brawn GP in 2010 to create Mercedes-AMG. Dominant since 2014, Mercedes won 8 consecutive constructors' titles powered by superior hybrid engines and drivers Hamilton and Rosberg, amassing over 200 wins as an engine manufacturer.",
+    "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/2018-redesign-assets/team%20logos/mercedes"
+  },
+  {
+    "name": "Aston Martin",
+    "first_appearance": 2021,
+    "titles": 0,
+    "wins": 0,
+    "engine_supplier": "Mercedes",
+    "brief_history": "Aston Martin made a brief foray into F1 in 1959-1960 without success and returned in 2021 as the rebranding of Racing Point under the ownership of Lawrence Stroll. With drivers like Sebastian Vettel and Fernando Alonso, the British luxury brand seeks competitiveness with Mercedes engines, though development challenges remain. Aston Martin plans a partnership with Honda in 2026 to boost its podium ambitions.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/Aston_Martin_Aramco_2024_logo.png"
+  },
+  {
+    "name": "Alpine",
+    "first_appearance": 1977,
+    "titles": 2,
+    "wins": 21,
+    "engine_supplier": "Renault",
+    "brief_history": "Formerly Renault, Alpine entered F1 in 1977 pioneering turbocharged engines, earning its first GP win in 1979 and back-to-back drivers' and constructors' titles in 2005-2006 with Fernando Alonso and Flavio Briatore. After several exits and stints as an engine supplier, Renault rebranded to Alpine in 2021 to promote its sports car brand, focusing on French innovation and drivers like Esteban Ocon and Pierre Gasly, with key victories at Monza and the Hungaroring.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_of_alpine_f1_team_2022.png"
+  },
+  {
+    "name": "Haas",
+    "first_appearance": 2016,
+    "titles": 0,
+    "wins": 0,
+    "engine_supplier": "Ferrari",
+    "brief_history": "Founded by American entrepreneur Gene Haas in 2014, Haas debuted in 2016 as the first U.S. F1 team in 30 years, with a technical alliance with Ferrari for chassis and engines. Led by Günther Steiner, Haas scored points in its first race and secured a strong 8th in the constructors', but has struggled with consistent performance. With drivers such as Romain Grosjean and Kevin Magnussen, Haas represents American ambition in F1 but is still seeking its first title.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MoneyGram_Haas_F1_Team_Logo.svg/1920px-MoneyGram_Haas_F1_Team_Logo.svg.png"
+  },
+  {
+    "name": "RB",
+    "first_appearance": 1985,
+    "titles": 0,
+    "wins": 2,
+    "engine_supplier": "Red Bull Powertrains (Honda RBPT)",
+    "brief_history": "Originating as Minardi in 1985, the team was purchased by Red Bull in 2006 to become Toro Rosso as a training ground for young talents, achieving its first win with Sebastian Vettel at the 2008 Monza GP. Rebranded as AlphaTauri in 2020 and RB in 2024, it has served as a platform for drivers like Verstappen and Gasly (who won Monza 2020). As a junior team, it operates out of Faenza, Italy, with occasional podiums but no titles yet.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/VCARB_F1_logo.svg/1920px-VCARB_F1_logo.svg.png"
+  },
+  {
+    "name": "Williams",
+    "first_appearance": 1978,
+    "titles": 9,
+    "wins": 114,
+    "engine_supplier": "Mercedes",
+    "brief_history": "Founded in 1977 by Frank Williams and Patrick Head, Williams debuted in 1978 and dominated the 1980s and 1990s with 9 titles, powered by Honda engines and drivers like Nelson Piquet, Alain Prost, and Damon Hill. Frank Williams’s 1986 accident didn't halt their success, but the team declined after the 2000s, leading to Mercedes partnerships. Now owned by Dorilton Capital, Williams is aiming to return to form with Alex Albon and Carlos Sainz, upholding its family legacy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Atlassian_Williams_Racing_2025.svg/1920px-Atlassian_Williams_Racing_2025.svg.png"
+  },
+  {
+    "name": "Sauber",
+    "first_appearance": 1993,
+    "titles": 0,
+    "wins": 0,
+    "engine_supplier": "Ferrari",
+    "brief_history": "Founded by Peter Sauber in Switzerland in 1993, the team has nurtured talents like Kimi Räikkönen, Charles Leclerc, and Sergio Pérez, debuting with a 7th place finish at its first race. Without championship titles, Sauber survived financial crises with partners like BMW (2006-2009) and Ferrari (2010s); in 2024 it's preparing to become Audi in 2026. Known for solid engineering and midfield consistency.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stake_F1_Team_logo.png"
+  }
+]

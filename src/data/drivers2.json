@@ -1,0 +1,112 @@
+[
+  {
+    "id": "piastri",
+    "full_name": "Oscar Piastri",
+    "nationality": "Australian",
+    "date_of_birth": "06/04/2001",
+    "number": 81,
+    "team_id": "mclaren",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/opiastri_2025.png",
+    "brief_bio": "From Melbourne, Australia, Oscar Piastri won Asian F3 and F2 in 2021 before debuting with McLaren in 2023, winning in Qatar that year. With victories in Hungary and Azerbaijan 2024, Piastri competes for the title with Norris in 2025, highlighting his calm and wet-weather speed.",
+    "brief_description": "Australian McLaren rookie sensation, standout victories in 2023-2024; highly composed and competitive."
+  },
+  {
+    "id": "hamilton",
+    "full_name": "Lewis Hamilton",
+    "nationality": "British",
+    "date_of_birth": "07/01/1985",
+    "number": 44,
+    "team_id": "ferrari",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/lhamilton_2025.png",
+    "brief_bio": "From Stevenage, England, seven-time champion with Mercedes (2008, 2014-2020), Lewis Hamilton debuted in 2007 with 105 wins. Moved to Ferrari in 2025, seeking an eighth title with podiums in Bahrain and Monaco, as an activist for diversity and sustainability in F1.",
+    "brief_description": "Seven-time champion, now at Ferrari; 105 career wins, most successful British driver and social activist."
+  },
+  {
+    "id": "tsunoda",
+    "full_name": "Yuki Tsunoda",
+    "nationality": "Japanese",
+    "date_of_birth": "11/05/2000",
+    "number": 22,
+    "team_id": "red_bull",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/yuki-tsunoda-red-bull-2025.png",
+    "brief_bio": "From Nagoya, Japan, Yuki Tsunoda won F3 in 2019 before debuting with AlphaTauri in 2021 with immediate points. Promoted to Red Bull in 2025, Tsunoda adds podiums in Abu Dhabi and Singapore, highlighting his aggressiveness and role as Japanese ambassador on the grid.",
+    "brief_description": "Japanese Red Bull driver, aggressive style; rapid rise with multiple points and podiums in 2024-2025."
+  },
+  {
+    "id": "antonelli",
+    "full_name": "Andrea Kimi Antonelli",
+    "nationality": "Italian",
+    "date_of_birth": "25/08/2006",
+    "number": 12,
+    "team_id": "mercedes",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/kantonelli_2025.png",
+    "brief_bio": "From Bergamo, Italy, Andrea Kimi Antonelli dominated Italian and German F4 in 2022 before debuting with Mercedes in 2025 as the youngest. With podiums in Imola and Silverstone, Antonelli impresses with maturity, inheriting Kimi Räikkönen's legacy in his name.",
+    "brief_description": "Italian rookie at Mercedes, record youngest points-scorer; mature talent seen as future star."
+  },
+  {
+    "id": "stroll",
+    "full_name": "Lance Stroll",
+    "nationality": "Canadian",
+    "date_of_birth": "29/10/1998",
+    "number": 18,
+    "team_id": "aston_martin",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/lstroll_2025.png",
+    "brief_bio": "From Montreal, Canada, Lance Stroll debuted with Williams in 2017 and won in Turkey 2020 with Racing Point. With Aston Martin since 2021 (founded by his father), he adds podiums in Australia and Azerbaijan, focusing on consistency for the family team in 2025.",
+    "brief_description": "Canadian Aston Martin driver, surprise winner in Turkey 2020; consistent and competitive team player."
+  },
+  {
+    "id": "colapinto",
+    "full_name": "Franco Colapinto",
+    "nationality": "Argentine",
+    "date_of_birth": "26/05/2003",
+    "number": 43,
+    "team_id": "alpine",
+    "image_url": "https://soymotor.com/sites/default/files/2025-05/franco-colapinto-2025-soymotor.png",
+    "brief_bio": "From Buenos Aires, Argentina, Franco Colapinto won Spanish F4 in 2021 before debuting with Williams in 2024 with podiums in Monza. At Alpine in 2025, he stands out for qualifying speed and Latin passion, scoring points in Miami and Brazil as a South American revelation.",
+    "brief_description": "Argentine Alpine rookie, Monza points scorer; passionate Latin talent adding flair to the grid."
+  },
+  {
+    "id": "bearman",
+    "full_name": "Oliver Bearman",
+    "nationality": "British",
+    "date_of_birth": "08/05/2005",
+    "number": 87,
+    "team_id": "haas",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/obearman_2025.png",
+    "brief_bio": "From Chelmsford, England, Oliver Bearman debuted for Ferrari in 2024 replacing Sainz, finishing 7th in Saudi Arabia. At Haas in 2025, he gains experience with prior F2 podiums, showing potential as a Ferrari junior in midfield cars.",
+    "brief_description": "British Haas rookie, scored points for Ferrari in F1 debut; highly rated and successful in junior categories."
+  },
+  {
+    "id": "hadjar",
+    "full_name": "Isack Hadjar",
+    "nationality": "French",
+    "date_of_birth": "28/09/2004",
+    "number": 6,
+    "team_id": "racing_bulls",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/ihadjar_2025.png",
+    "brief_bio": "From Paris, France, Isack Hadjar won Asian F3 in 2023 before debuting with RB in 2025 as a Red Bull junior. With F2 wins and Super Formula podiums, Hadjar brings French freshness to the team, scoring early points in Bahrain.",
+    "brief_description": "French RB junior, F2 race winner and instant points scorer; brings energy and promise to the team."
+  },
+  {
+    "id": "sainz",
+    "full_name": "Carlos Sainz",
+    "nationality": "Spanish",
+    "date_of_birth": "01/09/1994",
+    "number": 55,
+    "team_id": "williams",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/csainz_2025.png",
+    "brief_bio": "From Madrid, Spain, Carlos Sainz won European F3 in 2014 before debuting in Toro Rosso in 2015 and joining Ferrari in 2021, with wins in Australia and Singapore 2024. At Williams in 2025, he aims to revive the team with experience and Silverstone podiums.",
+    "brief_description": "Experienced Spanish Williams racer, race winner in Australia 2024; brings calm and leadership to the team."
+  },
+  {
+    "id": "bortoleto",
+    "full_name": "Gabriel Bortoleto",
+    "nationality": "Brazilian",
+    "date_of_birth": "14/10/2004",
+    "number": 5,
+    "team_id": "sauber",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/gbortoleto_2025.png",
+    "brief_bio": "From São Paulo, Brazil, Gabriel Bortoleto won British F4 in 2021 and F2 in 2024 before debuting with Sauber in 2025. As a McLaren junior, he impresses with qualifying speed and junior podiums, representing Brazilian talent in the Audi transition.",
+    "brief_description": "Brazilian Sauber rookie, F2 champion in 2024; rapid qualifier now developing in F1."
+  }
+]

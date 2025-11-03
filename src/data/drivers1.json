@@ -1,0 +1,112 @@
+[
+  {
+    "id": "norris",
+    "full_name": "Lando Norris",
+    "nationality": "British",
+    "date_of_birth": "13/11/1999",
+    "number": 4,
+    "team_id": "mclaren",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/lnorris_2025.png",
+    "brief_bio": "Born in Bristol, England, Lando Norris started karting at age 8 and won multiple junior titles before debuting in F1 with McLaren in 2019. With 10 wins and runner-up in 2024, Norris excels in consistency and poles like Russia 2021, establishing himself as McLaren's leader in the hybrid era with victories in Miami and Silverstone 2025.",
+    "brief_description": "British McLaren star, 2024 championship runner-up with 10 wins and strong pole positions; renowned for consistency and wet weather skills."
+  },
+  {
+    "id": "leclerc",
+    "full_name": "Charles Leclerc",
+    "nationality": "Monegasque",
+    "date_of_birth": "16/10/1997",
+    "number": 16,
+    "team_id": "ferrari",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/cleclerc_2025.png",
+    "brief_bio": "From Monaco, Charles Leclerc dominated GP3 and F2 before debuting with Sauber in 2018 and joining Ferrari in 2019, winning at Spa and Monza that year. With 11 wins and runner-up in 2022, Leclerc shines in qualifying (9 poles in 2022) and races in honor of his father and Jules Bianchi, keeping Ferrari competitive in 2025.",
+    "brief_description": "Monégasque Ferrari talent, 11 career wins and a qualifying specialist; emotional racer who honors Bianchi and battles for podiums."
+  },
+  {
+    "id": "verstappen",
+    "full_name": "Max Verstappen",
+    "nationality": "Dutch",
+    "date_of_birth": "30/09/1997",
+    "number": 1,
+    "team_id": "red_bull",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/mverstappen_2025.png",
+    "brief_bio": "Son of former driver Jos, Max Verstappen debuted in Toro Rosso at 17 in 2015 and won in Spain 2016 with Red Bull, the youngest in history. Quadruple champion (2021-2024) with 68 wins, he dominates the hybrid era with poles and records, extending his legacy in 2025 as the most aggressive and talented driver.",
+    "brief_description": "Dutch Red Bull ace, four-time champion with 68 wins; dominant, aggressive and the youngest race winner in F1 history."
+  },
+  {
+    "id": "russell",
+    "full_name": "George Russell",
+    "nationality": "British",
+    "date_of_birth": "15/02/1998",
+    "number": 63,
+    "team_id": "mercedes",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/grussell_2025.png",
+    "brief_bio": "From King's Lynn, England, George Russell won GP3 and F2 before debuting with Williams in 2019 and moving to Mercedes in 2022, winning in São Paulo and Austria 2024. With 5 wins and poles like Hungary 2022, Russell stands out for qualifying speed and resilience, contributing to Mercedes' resurgence in 2025.",
+    "brief_description": "British Mercedes driver, F2 champion, 5 career wins; excels in qualifying and led Mercedes’ resurgence."
+  },
+  {
+    "id": "alonso",
+    "full_name": "Fernando Alonso",
+    "nationality": "Spanish",
+    "date_of_birth": "29/07/1981",
+    "number": 14,
+    "team_id": "aston_martin",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/falonso_2025.png",
+    "brief_bio": "From Oviedo, Spain, double champion with Renault (2005-2006), Fernando Alonso debuted with Minardi in 2001 and has won 32 GPs over 22 seasons. Unique in winning F1 and WEC titles, with Le Mans victories in 2018-2019, he returns strong to Aston Martin from 2023, adding podiums in 2025 at age 43 as a savvy veteran.",
+    "brief_description": "Spanish double world champion, over 32 career wins, endurance racing hero; remains a sharp and strategic force for Aston Martin."
+  },
+  {
+    "id": "gasly",
+    "full_name": "Pierre Gasly",
+    "nationality": "French",
+    "date_of_birth": "07/02/1996",
+    "number": 10,
+    "team_id": "alpine",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/pgasly_2025.png",
+    "brief_bio": "From Rouen, France, Pierre Gasly won GP2 in 2016 before debuting in Toro Rosso in 2017 and winning in Italy 2020 with AlphaTauri. With podiums in Azerbaijan and the Netherlands, he joined Alpine in 2023, achieving consistency and podiums in 2024-2025, highlighting his adaptability in midfield teams.",
+    "brief_description": "French Alpine driver, 2020 Monza winner and regular points finisher; adaptable expert in midfield teams."
+  },
+  {
+    "id": "ocon",
+    "full_name": "Esteban Ocon",
+    "nationality": "French",
+    "date_of_birth": "17/09/1996",
+    "number": 31,
+    "team_id": "haas",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/eocon_2025.png",
+    "brief_bio": "From Normandy, France, Esteban Ocon won European F3 in 2014 and GP3 in 2015 before debuting with Manor in 2016 and winning in Hungary 2021 with Alpine. With podiums in Sakhir and Monaco, he moved to Haas in 2025, bringing experience for consistent points in the midfield.",
+    "brief_description": "French Haas driver, Hungaroring GP winner; consistent scorer and competitive in all conditions."
+  },
+  {
+    "id": "lawson",
+    "full_name": "Liam Lawson",
+    "nationality": "New Zealander",
+    "date_of_birth": "11/02/2002",
+    "number": 30,
+    "team_id": "racing_bulls",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/liam-lawson-racing-bulls-2025.png",
+    "brief_bio": "From Pukekohe, New Zealand, Liam Lawson won the Toyota Racing Series in 2019 before debuting with AlphaTauri in 2023, scoring points in Singapore. Promoted to Red Bull in 2025 but returned to RB, Lawson shows potential with junior podiums and F1 adaptability.",
+    "brief_description": "New Zealander for RB, debuted with points in Singapore; junior highlight with adaptability and speed."
+  },
+  {
+    "id": "albon",
+    "full_name": "Alexander Albon",
+    "nationality": "Thai",
+    "date_of_birth": "23/03/1996",
+    "number": 23,
+    "team_id": "williams",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/aalbon_2025.png",
+    "brief_bio": "Thai with English roots, Alexander Albon debuted in Toro Rosso in 2019 and briefly joined Red Bull before moving to Williams in 2022. With F2 podiums and consistent points in midfield cars, Albon excels in race intelligence and leadership in Williams' 2025 revival.",
+    "brief_description": "Thai Williams team leader, former Red Bull racer; highly intelligent competitor and key to Williams revival."
+  },
+  {
+    "id": "hulkenberg",
+    "full_name": "Nico Hulkenberg",
+    "nationality": "German",
+    "date_of_birth": "19/02/1987",
+    "number": 27,
+    "team_id": "sauber",
+    "image_url": "https://soymotor.com/sites/default/files/2025-03/nhulkenberg_2025.png ",
+    "brief_bio": "From Emmerich, Germany, Nico Hulkenberg debuted with Williams in 2010 with a pole in Brazil but no wins in 200+ GPs. Veteran of Force India and Haas, he joined Sauber/Audi in 2025, providing experience and poles like 2010 for technical transitions.",
+    "brief_description": "German veteran at Sauber, known for the 2010 Brazil pole and reliability; technical mentor for Audi transition."
+  }
+]
