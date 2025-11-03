@@ -9,7 +9,7 @@ import Hero from './pages/index.tsx'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/F1Web">
      <Routes>
         <Route path='/' element={<Hero/>}/>
         <Route path="/drivers" element={<Drivers/>}/>

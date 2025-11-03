@@ -2,25 +2,25 @@
   {
     "period": "1950-1970",
     "brief_history": "Formula 1’s World Championship era began in 1950 at Silverstone, where stars like Giuseppe Farina and especially Juan Manuel Fangio—who won five titles—established early dominance amid Italian and later British-powered supremacy. The 1950s were marked by the rise of Alfa Romeo, Ferrari, and intense continental rivalries, but also by high fatality rates that made safety a growing concern. The 1960s ushered in game-changing technological progress—rear-engined layouts, monocoque chassis, and aerodynamic wings—enabling British teams like Lotus and Brabham to come to the fore, while legendary drivers Jim Clark, Graham Hill, and Jackie Stewart contended amid a rapidly evolving sport.",
-    "image_url": "src/assets/1950car.webp"
+    "image_url": "/1950car.webp"
     
   },
   {
     "period": "1970-1990",
     "brief_history": "These decades saw F1 embrace radical innovation and turbocharged power, as the sport’s “golden era” unfolded with ground-effect aerodynamics, experimentation (like six-wheeled cars), and the rise of major teams including McLaren and Williams. Star drivers such as Niki Lauda, James Hunt, Nelson Piquet, and Alain Prost built fierce rivalries, while Lauda’s dramatic Nürburgring accident and comeback became legendary, and tragic fatalities prompted gradual safety reforms. By the 1980s, turbo engines reached staggering outputs and McLaren’s Prost-Senna rivalry enthralled fans, as new rules and advancing electronics continually reshaped the competitive landscape.",
-    "image_url": "src/assets/1970car.webp"
+    "image_url": "/1970car.webp"
     
   },
   {
     "period": "1990-2010",
     "brief_history": "The 1990s opened with Senna-Prost drama and the tragic death of Ayrton Senna, spurring transformative changes in driver protection and circuit design. Williams and Benetton briefly dominated, but Michael Schumacher redefined the era by winning a record seven titles five with Ferrari in the early 2000s during a period marked by technological advances like semi-automatic gearboxes, then banning, of electronic driving aids. The 2000s ended with Renault’s and then Brawn GP’s upsets—thanks to innovative rules interpretation and double-diffuser aero breakthroughs—before Red Bull and Vettel signaled a new aerodynamic era. This period also saw aerodynamics emerge with teams like Ferrari and McLaren",
-    "image_url": "src/assets/1990car.jpg"
+    "image_url": "/1990car.jpg"
     
   },
   {
     "period": "2010-2025",
     "brief_history": "Since 2010, Formula 1 has been defined by periods of team dominance—first Red Bull and Sebastian Vettel, then Mercedes and Lewis Hamilton in the hybrid era—as well as landmark regulatory and social changes, from the DRS and halo safety device to cost caps and greener engine technologies. Intense rivalries (Hamilton vs. Rosberg, then Verstappen) and controversial moments—such as the 2021 Abu Dhabi finale—have fueled global interest as Max Verstappen’s recent supremacy marks a new chapter. Expanding the calendar worldwide and focusing on sustainability, F1 continues to blend rapid technical progress with a push for greater diversity, inclusivity, and fan engagement.",
-    "image_url": "src/assets/2021car.jpg"
+    "image_url": "/2021car.jpg"
     
   }
 ]
