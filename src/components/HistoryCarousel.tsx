@@ -38,7 +38,7 @@ export default function CarouselOrientation() {
                     /> 
                     
                     {/* TText is visible without the conditional in bigger devices, but is hidden for sm until state is true*/}
-                    <p className={`text-xl sm:text-2xl font-bold font-sans text-justify leading-relaxed rounded-2xl p-3 sm:p-5 max-lg:w-full lg:w-2/4 ${expandedItems[index] ? 'block' : 'max-sm:hidden'}`}>
+                    <p className={`text-xl sm:text-2xl font-semibold font-sans text-justify leading-relaxed rounded-2xl p-3 sm:p-5 max-lg:w-full lg:w-2/4 ${expandedItems[index] ? 'block' : 'max-sm:hidden'} max-sm:text-sm`}>
                       {item.brief_history}
                     </p>
 
