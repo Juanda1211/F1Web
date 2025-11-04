@@ -25,7 +25,7 @@ export default function Info(){
           alt="Max Verstappen" 
           className="w-full md:w-3/5 lg:w-2/5 lg:float-end lg:mb-4 border-2 border-black rounded-2xl h-auto max-h-48 sm:max-h-56 md:max-h-64 lg:max-h-none bg-center mb-4 mt-4 lg:mt-0 order-first lg:order-last object-cover mx-auto md:mx-auto lg:mx-0"
         /> 
-        <p className="text-lg sm:text-xl md:text-xl lg:text-2xl font-semibold text-justify leading-relaxed rounded-2xl w-full md:w-full lg:w-2/4 p-3 sm:p-4 md:p-5 lg:p-5 mb-0">
+        <p className="text-lg sm:text-xl md:text-xl lg:text-2xl font-semibold text-justify leading-relaxed rounded-2xl w-full md:w-full lg:w-2/4 p-3 sm:p-4 md:p-5 lg:p-5 mb-0 max-sm:text-sm ">
           Max Verstappen had a historic 2024 season, winning his fourth consecutive Formula 1 world championship despite an increased challenge from rivals like McLaren. 
           The season started dominantly with wins in Bahrain and Saudi Arabia, extending his record for consecutive points. However, a mechanical failure in Australia ended his race streak, and a challenging period mid-season saw increased pressure, particularly after a difficult Monaco Grand Prix. 
           He ultimately secured the title at the Las Vegas Grand Prix, becoming the sixth driver to win four titles and the first to do so with a third-placed constructor.

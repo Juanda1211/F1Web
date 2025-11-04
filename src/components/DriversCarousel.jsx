@@ -85,8 +85,8 @@ export default function CarouselOrientation() {
               );
             })}
           </CarouselContent>
-          <CarouselPrevious className="hidden sm:block" />
-          <CarouselNext className="hidden sm:block" />
+          <CarouselPrevious className="sm:translate-y-6"/>
+          <CarouselNext className="sm:translate-y-6" />
         </Carousel>
       </div>
     </div>
