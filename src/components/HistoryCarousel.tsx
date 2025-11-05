@@ -5,12 +5,13 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { useState } from "react";
-
+import { useState, useEffect } from "react";
 import historyData from '../data/history.json'; 
 
 export default function CarouselOrientation() {
   const [expandedItems, setExpandedItems] = useState<Record<number, boolean>>({});
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const [api, setApi] = useState<any>();
 
   const toggleReadMore = (index: number) => {
     setExpandedItems(prev => ({
@@ -19,9 +20,27 @@ export default function CarouselOrientation() {
     }));
   };
 
+  // Listen for carousel changes and reset expandedItems
+  useEffect(() => {
+    if (!api) return;
+
+    const handleSlideChange = () => {
+      setExpandedItems({}); // Reset all expanded items
+    };
+
+    api.on("select", handleSlideChange);
+
+    return () => {
+      api.off("select", handleSlideChange);
+    };
+  }, [api]);
+
   return (
     <div className="justify-center mt-15 lg:px-6 lg:mx-42 sm:px-0"> 
-      <Carousel orientation="horizontal">
+      <Carousel 
+        orientation="horizontal"
+        setApi={setApi}
+      >
         <CarouselContent>
           {historyData.map((item, index) => (
             <CarouselItem key={index}>
@@ -36,20 +55,15 @@ export default function CarouselOrientation() {
                       alt={`${item.period} f1 car`} 
                       className="max-lg:float-none max-lg:w-full max-lg:block max-lg:mb-4 max-lg:mt-4 lg:float-end lg:w-2/5 lg:mb-4 lg:mr-6 border-2 border-black rounded-2xl h-auto bg-center mt-4" 
                     /> 
-                    
-                    {/* TText is visible without the conditional in bigger devices, but is hidden for sm until state is true*/}
-                    <p className={`text-xl sm:text-2xl font-semibold font-sans text-justify leading-relaxed rounded-2xl p-3 sm:p-5 max-lg:w-full lg:w-2/4 ${expandedItems[index] ? 'block' : 'max-sm:hidden'} max-sm:text-sm`}>
-                      {item.brief_history}
-                    </p>
-
-                    {/*visible in small devices */}
                     <button 
                       onClick={() => toggleReadMore(index)}
                       className="sm:hidden text-gray-700 font-bold underline mb-2 px-3 w-full text-center"
                     >
                       {expandedItems[index] ? "Hide text" : "Read text"}
                     </button>
-
+                    <p className={`text-xl sm:text-2xl font-semibold font-sans text-justify leading-relaxed rounded-2xl p-3 sm:p-5 max-lg:w-full lg:w-2/4 ${expandedItems[index] ? 'block' : 'max-sm:hidden'} max-sm:text-sm`}>
+                      {item.brief_history}
+                    </p>
                     <div className="clear-both sm:hidden"></div> 
                   </div>
                 </div>
